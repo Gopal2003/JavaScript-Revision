@@ -2,16 +2,16 @@
 // let score = "Thirty-three";
 // let score = null;
 // let score = {};
-// let score = undefined;
+let score = undefined;
 // let score = true;
 
 
 
-// console.log(typeof score);
+console.log(typeof score);
 
-// let numValue = Number(score);
-// console.log(typeof numValue);
-// console.log(numValue);
+let numValue = Number(score);
+console.log(typeof numValue);
+console.log(numValue);
 
 //! "33" => 33
 //! "33abc" => NaN
@@ -42,14 +42,14 @@
 // let someNumber = null;
 
 
-let stringNumber = String(someNumber);
+// let stringNumber = String(someNumber);
 
 // let val = stringNumber.split(' ');
 // console.log(val);
 
 
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
 
 
 
